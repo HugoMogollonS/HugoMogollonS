@@ -3,10 +3,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/TUUSUARIO" target="_blank">
+  <a href="https://www.linkedin.com/in/hugo-mogollon-suppo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://secuvia.pe" target="_blank">
+  <a href="" target="_blank">
     <img src="https://img.shields.io/badge/Portafolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
   <a href="mailto:tucorreo@dominio.com">
