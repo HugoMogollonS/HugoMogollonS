@@ -24,6 +24,7 @@ Security Tech / Software Engineer enfocado en **Seguridad Patrimonial + Segurida
 - Frontend: **Vue 3 • React • Vite • Vuetify**
 - Data/Scripts: **Python**
 - BI: **SQL • Power BI**
+- Mobile: **Flutter**
 - Sec/Infra: **Cloudflare WAF • RBAC**
 
 ## Lo que me mueve:
