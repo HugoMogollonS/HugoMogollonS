@@ -27,7 +27,7 @@ Security Tech / Software Engineer enfocado en **Seguridad Patrimonial + Segurida
 - Sec/Infra: **Cloudflare WAF • RBAC**
 
 ## Amo BajarPepita
--Amo los datos y la seguridad patrimonial: convierto señales sueltas (CCTV, controles de acceso, incidencias, SLA, auditoría) en decisiones claras y accionables. Siempre estoy probando cosas “locas” —automatizaciones, modelos, dashboards y prototipos— para detectar patrones antes que el problema aparezca y volver la operación más inteligente y segura.
+Amo los datos y la seguridad patrimonial: convierto señales sueltas (CCTV, controles de acceso, incidencias, SLA, auditoría) en decisiones claras y accionables. Siempre estoy probando cosas “locas” - automatizaciones, modelos, dashboards y prototipos— para detectar patrones antes que el problema aparezca y volver la operación más inteligente y segura.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=HugoMogollonS&show_icons=true&hide_title=true" />
 </p>
