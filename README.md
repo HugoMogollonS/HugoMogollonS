@@ -1,14 +1,12 @@
 <p align="center">
-  <img src="./assets/hero2.png" alt="HugoDev" width="100%" />
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/hugo-mogollon-suppo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="" target="_blank">
-    <img src="[https://img.shields.io/badge/Portafolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white](https://www.hugodev.pe/)"/>
+
+  <a href="https://www.hugodev.pe/" target="_blank">
+    <img src="https://img.shields.io/badge/Portafolio-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
   </a>
+
   <a href="mailto:hugodeveloper2026@gmail.com">
     <img src="https://img.shields.io/badge/Email-111?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
