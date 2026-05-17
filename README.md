@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/TU_USUARIO/TU_REPOSITORIO/main/assets/hero2.png" alt="HugoDev" width="100%" />
+  <img src="./assets/hero2.png" alt="HugoDev" width="100%" />
 </p>
 
 <p align="center">
